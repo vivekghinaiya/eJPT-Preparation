@@ -21,3 +21,5 @@ These Resources help me out to pass my eJPT exam:
 
 - Something that you should focus more on it. (i had stuck on my exam time :| may be you can clear out easly but i just inform you because of experience)
 1. https://pentest.blog/explore-hidden-networks-with-double-pivoting/
+
+##Best Of Luck...
