@@ -19,5 +19,5 @@ These Resources help me out to pass my eJPT exam:
 2. https://www.notion.so/course-PTSv4-22ad4ca2ce3e4fe0a5e369217b41c9b3
 3. https://github.com/NoelV11/EJPT-Training-Labs-Wakthrough
 
-- Something that you should focus more on it. (i had stuck on my exam time :| may be you can clear out easly but i just inform you because of mine)
+- Something that you should focus more on it. (i had stuck on my exam time :| may be you can clear out easly but i just inform you because of experience)
 1. https://pentest.blog/explore-hidden-networks-with-double-pivoting/
