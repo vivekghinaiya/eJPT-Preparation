@@ -8,10 +8,12 @@ These Resources help me out to pass my eJPT exam:
 2. https://githubmate.com/repo/tejasanerao/eJPT-Cheatsheet
 3. https://kentosec.com/2019/08/04/how-to-pass-the-ejpt/
 4. https://github.com/fdicarlo/eJPT
+5. https://github.com/grumpzsux/eJPT-Notes
 6. https://github.com/fer/ejpt/tree/main/ejpt
 7. https://github.com/hunterluker/eJPT-notes
 8. https://github.com/d3m0n4l3x/eJPT
 9. https://github.com/Kaiser784/eJPT
+10. https://github.com/grumpzsux/eJPT-Notes
 
 
 - Labs and Blackboxes walkthrough/solutions.
